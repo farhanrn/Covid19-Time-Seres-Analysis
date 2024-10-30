@@ -37,7 +37,7 @@ pip install pandas numpy matplotlib seaborn
 
 This project utilizes COVID-19 time series data, which includes records of confirmed cases, recoveries, and deaths across various countries and timeframes. The data source is publicly available and may be periodically updated to reflect new cases.
 
-> **Note:** Make sure to update the dataset path if using a different dataset or directory.
+> **Note:** The dataset is compeletely scrapped in covid 19 website
 
 ## Results
 
@@ -46,17 +46,4 @@ The analysis provides several key insights:
 - Daily trends in confirmed cases, recoveries, and deaths.
 - Regional hotspots and comparisons of COVID-19 impact.
 - Predictive trends for understanding potential future impacts (if applicable).
-
-## Contributions
-
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Data Source: [Provide link or mention data source if available]
-- Libraries: pandas, numpy, matplotlib, seaborn, etc.
 
